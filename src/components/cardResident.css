@@ -9,13 +9,12 @@
 .card__heder{
     position: relative;
 }
-
 .card_container-status {
     position: absolute;
     top: 30px;
     left: 0;
     width: 100px;
-    background-color: var(--bachgraound-cards);
+    background-color: var(--bachground-cards);
     padding: 6px;
     border-radius: 0 10px 10px 0;
     font-size: 14px;
@@ -27,7 +26,6 @@
     width: 14px;
     aspect-ratio: 1;
     border-radius: 50%;
-
 }
 .Dead {
     background-color: red;
@@ -38,7 +36,6 @@
 .Alive {
     background-color: green;
 }
-
 .card__body {
     padding: 20px;
 }
